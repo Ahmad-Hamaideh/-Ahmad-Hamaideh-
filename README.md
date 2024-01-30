@@ -29,10 +29,8 @@ Simplon.co and Princess Sumaya University for Technology (PSUT)*
    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" width="60">
    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/source.gif" width="60">
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
    <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/source.gif" width="60">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" width="60">
 
