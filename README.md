@@ -33,7 +33,7 @@ Simplon.co and Princess Sumaya University for Technology (PSUT)*
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
    <img src="https://media.giphy .com/media/KzJkzjggfGN5Py6nkT/source.gif" width="60"
-     <img src="https://giphy.com/gifs/Mode-design-database-ide-sql-W71QxkQgCDM1WJYdFzcid=6c09b952loa74zurglmi08seiem2vveogz0lalwpxmsjt9xe&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="60">
+     <img src="raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60">
 
 </div> 
 
